@@ -16,4 +16,4 @@
 
 
 <h3>Mis ultimos proyectos son:</h3>
-<a href="https://github.com/hjmunoz/AbcProyectoFinal.git">Abc Educando</a>
+<a href="https://github.com/hjmunoz/AbcProyectoFinal.git" target="_blank">Abc Educando</a>
