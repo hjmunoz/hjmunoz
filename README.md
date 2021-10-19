@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hector Muñoz</h1>
-<h3 align="center">A passionate frontend and abckend developer from Colombia.</h3>
+<h3 align="center">A passionate frontend and backend developer from Colombia.</h3>
 
 - 🔭 I’m currently working on **One Way Innovation S.A.S** and **yertronics**
 
