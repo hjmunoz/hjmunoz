@@ -16,4 +16,5 @@
 
 
 <h3>Mis ultimos proyectos son:</h3>
-<a href="https://github.com/hjmunoz/AbcProyectoFinal.git" target="_blank">Abc Educando</a>
+<a href="https://github.com/hjmunoz/AbcProyectoFinal.git" target="_blank">Abc Educando</a><br>
+<a href="https://github.com/hjmunoz/inventoryphp.git" target="_blank">Crud php</a>
