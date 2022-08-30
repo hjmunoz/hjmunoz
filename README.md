@@ -1,7 +1,6 @@
 <h1 align="center">Hola soy Hector Muñoz</h1>
 <h3 align="center">Un apasionado desarrollador por el frontend y backend que se encuentra desarrollando aun más su skills como programador.</h3>
 
-- 🔭 Me encuentro trabajando en **One Way Innovation S.A.S** and **yertronics**
 
 <h3 align="left">Me encuentran en:</h3>
 <p align="left">
